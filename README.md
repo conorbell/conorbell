@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-<p>I'm Conor, I'm a Fullstack Engineer from Newburgh, NY, currently living in NYC</p>
+<p>I'm Conor, I'm a Software Engineer from Newburgh, NY, currently living in NYC</p>
 
 
 #### Tools I code with
